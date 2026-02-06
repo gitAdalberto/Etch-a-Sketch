@@ -8,8 +8,9 @@ document.getElementById("container").addEventListener("mousedown", () => {
 
 document.getElementById("container").addEventListener("mouseup", () => {
     mouseDown = false;
-    
+
 })
+
 
 function clear (){
     const container = document.getElementById("container");
